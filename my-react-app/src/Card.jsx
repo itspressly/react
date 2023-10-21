@@ -1,4 +1,4 @@
-import Smooth from './assets/Smooth.jpg'
+/*import Smooth from './assets/Smooth.jpg'
 
 function Card(){
     return(
@@ -14,3 +14,4 @@ function Card(){
 }
 
 export default Card
+*/
